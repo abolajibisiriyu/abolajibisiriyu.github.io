@@ -1,0 +1,33 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+b,
+span,
+label,
+input .major {
+    font-family: 'Raleway', sans-serif;
+}
+
+b {
+    font-weight: 900;
+}
+
+.panel.small .span-7,
+.panel.medium .span-7,
+.panel.large .span-7 {
+    width: initial;
+}
+
+#my-summary {
+    padding-top: 155px;
+    font-weight: bold
+}
+
+li.icon {
+    font-size: 14px;
+}
