@@ -5,6 +5,7 @@ h3,
 h4,
 h5,
 h6,
+p,
 a,
 b,
 span,
@@ -30,4 +31,8 @@ b {
 
 li.icon {
     font-size: 14px;
+}
+
+.sweet-alert button {
+    padding: 0px 32px !important;
 }
